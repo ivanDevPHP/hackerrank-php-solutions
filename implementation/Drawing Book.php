@@ -1,3 +1,5 @@
+<?php
+
 function pageCount($n, $p) {
      // Turns from the front
     $frontTurns = intdiv($p, 2);
