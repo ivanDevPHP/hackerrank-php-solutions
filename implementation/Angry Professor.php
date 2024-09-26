@@ -21,4 +21,3 @@ function angryProfessor($k, $a) {
 
     return ($onTime >= $k) ? 'NO' : 'YES';
 }
-$fp
